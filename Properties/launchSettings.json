@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "FluentRun.Console": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "LocalMachine"
+      }
+
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
